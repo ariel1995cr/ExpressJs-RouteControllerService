@@ -5,3 +5,5 @@ Probando Express con clases y services layer
 yarn 
 
 yarn dev
+
+Corriendo en puerto 8080
