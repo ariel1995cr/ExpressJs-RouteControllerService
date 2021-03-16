@@ -2,6 +2,6 @@
 Probando Express con clases y services layer
 
 # COMANDOS
-npm install
+yarn 
 
-npm run dev
+yarn dev
